@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "npm": "^11.4.2"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "vite": "^7.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
